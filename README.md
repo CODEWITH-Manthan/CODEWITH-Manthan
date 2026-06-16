@@ -54,15 +54,6 @@
 
 ---
 
-## 🏆 Achievements & Highlights
-
-- ⚡ **X Projects** shipped to production
-- 📈 **X+ Repositories** with focus on clean, scalable code
-- 🤝 Active contributor to open-source communities
-- 💬 Mentor & knowledge sharer in tech communities
-- 🎯 Consistent contributor with [X-day streak](https://github.com/CODEWITH-Manthan?tab=overview&from=2024-01-01&to=2024-12-31)
-
----
 
 ## 🎓 What I Do Best
 
