@@ -115,6 +115,4 @@ I'm always open to:
 
 **"Code is poetry, and bugs are just unexpected verses."** 💻✨
 
-Made with ❤️ by Manthan | Last Updated: 2026
-
 </div>
