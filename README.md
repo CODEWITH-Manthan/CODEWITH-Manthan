@@ -40,9 +40,6 @@
 
 
 
-## 📊 GitHub Stats
----
-
 
 ## 🎓 What I Do Best
 
